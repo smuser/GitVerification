@@ -7,7 +7,9 @@ public class VerfiyBsciCode {
 		for(i=0;i<10;i++)
 		{
 			System.out.println("Printed value for int i is: " +i);
+			if(i==4)
+				break;
 		}
-		System.out.print(" ");
+		
 	}
 }
