@@ -8,6 +8,6 @@ public class VerfiyBsciCode {
 		{
 			System.out.println("Printed value for int i is: " +i);
 		}
-		System.out.println(" ");
+		System.out.print(" ");
 	}
 }
